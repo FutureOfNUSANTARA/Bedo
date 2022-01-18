@@ -23,6 +23,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+HAHAHAHAHHAHAHAHAHAHAHAHAHHA
     <TextView
         android:id="@+id/title_splash"
         android:layout_width="match_parent"
